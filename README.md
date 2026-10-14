@@ -7,7 +7,7 @@
 ###
 
 <p align="left">
-  I’m a MERN Stack Developer & UI/UX Designer dedicated to transforming ideas into high-performing digital experiences. With expertise in both frontend design and backend development, I craft scalable, clean, and user-centered web applications that don’t just work—but stand out.
+  I’m a Full-Stack Web Developer with a strong focus on both Front-End & Back-End development, I build responsive, scalable, and user-focused web applications, combining solid engineering practices with a strong UI/UX design mindset.
 
   My mission: Build intuitive interfaces, write maintainable code, and deliver solutions that empower businesses to grow and users to engage. From concept to deployment, I ensure every project combines creativity, functionality, and reliability.
 </p>
