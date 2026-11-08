@@ -5,8 +5,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=900&color=60A5FA&center=true&vCenter=true&width=760&lines=Building+scalable+MERN+applications;Integrating+LLMs+into+real+products;SQL+%26+NoSQL+data+architecture;CI%2FCD+pipelines+that+ship+with+confidence" alt="Typing animation" /></a>
 
-<br/><br/>
-
 <a href="https://linkedin.com/in/mohamed-nasr-1682ab239"><img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=safari&logoColor=60A5FA" alt="Portfolio" /></a>
 <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
